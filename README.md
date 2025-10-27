@@ -1,4 +1,49 @@
-# Shqiptare-ne-Gjerbody {
+# Shqiptare-ne-Gjermany
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <title>Shqiptarët në Gjermani</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mirë se vini në Komunitetin Shqiptar në Gjermani!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Ballina</a></li>
+                <li><a href="#">Rreth Nesh</a></li>
+                <li><a href="#">Lajme & Evente</a></li>
+                <li><a href="#">Këshilla</a></li>
+                <li><a href="#">Forum</a></li>
+                <li><a href="#">Biznese Shqiptare</a></li>
+                <li><a href="#">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Lajmet e Fundit</h2>
+            <article>
+                <h3>Takimi i shqiptarëve në Berlin</h3>
+                <p>Më 15 nëntor, zhvillohet takimi vjetor i komunitetit shqiptar në Berlin.</p>
+            </article>
+        </section>
+        <section>
+            <h2>Këshilla për Integrim</h2>
+            <ul>
+                <li>Si të gjesh punë në Gjermani</li>
+                <li>Si të regjistrohesh në universitet</li>
+                <li>Informacion mbi lejen e qëndrimit</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Komuniteti Shqiptar në Gjermani</p>
+    </footer>
+</body>
+</html>
+[
     font-family: Arial, sans-serif;
     background: #f9f9f9;
     margin: 0;
